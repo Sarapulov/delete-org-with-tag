@@ -10,7 +10,7 @@ To run this script enter the following command into your console.
 ruby org_delete_with_tag_full.rb
 ```
 
-Script will ask you tp provide Zendesk account access.
+Script will ask you to provide Zendesk account access.
 
 ```
 ----------------------------------------------------------------
@@ -36,7 +36,7 @@ Tag: (e.g test): my_tag
 ```
 
 Script will execute the search and display the results.
-Results formated as `ORGANIZATION NAME [ZENDESK IS OF ORGANIZATION]`
+Results formatted as `ORGANIZATION NAME [ZENDESK ID OF ORGANIZATION]`
 Type `y` or `n` to confirm or deny the deletion.
 
 ```
