@@ -69,4 +69,4 @@ File will be saved in the same folder where script is located.
 
 ![](https://p4.zdassets.com/hc/theme_assets/201622/2836/Screen_Shot_2015-07-22_at_13.39.29.png)
 
-*Repository also contains simplified version of the script named as org_delete_with_tag_simplified.rb Which works in a similar manner as the full version but has les interactions with the user.*
+*Repository also contains simplified version of the script named as org_delete_with_tag_simplified.rb Which works in a similar manner as the full version but has less interactions with the user.*
